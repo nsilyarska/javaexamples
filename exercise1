@@ -22,12 +22,12 @@ public class exercise1 {
 //Intergers are whole numbers that are either positive or negative, or 0.
 //Replace this integer with your age!
 
- int age = 46;
+ int age = 18;
 
 //Doubles are numbers that have decimals and are positive or negative
 //Replace this Double with the gas prices in Chicago
  
-Double gasPrice = 3.48;
+Double dressPrice = 165;
 
 //Boolean are values that are either true or false
 //Replace this boolean value with true or false for the following question
@@ -66,4 +66,15 @@ if(yesOrNo == true){
 }
 	}
 }
-
+© 2018 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+API
+Training
+Shop
+Blog
+About
